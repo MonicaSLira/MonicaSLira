@@ -7,6 +7,9 @@
   <a href="https://github.com/MonicaSLira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonicaSLira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MonicaSLira)  
+    
+  
 </div>
 
 ###
