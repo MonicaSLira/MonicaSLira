@@ -1,4 +1,4 @@
-💻Olá Sou Mônica Lira,Analista Desenvolvedora Jr,Back-end
+💻Olá Sou Mônica Lira,Analista Desenvolvedora Jr,Back-end 👩‍💼
  
 </h2>👩‍💻 Estudando JavaScript, Node.js, HTML e  MySQL.</p>
 
